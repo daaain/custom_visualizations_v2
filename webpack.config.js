@@ -15,6 +15,7 @@ var webpackConfig = {
     chord: './src/examples/chord/chord.ts',
     treemap: './src/examples/treemap/treemap.ts',
     subtotal: './src/examples/subtotal/subtotal.ts'
+    kepler: "./src/examples/kepler/kepler.js"
   },
   output: {
     filename: "[name].js",
